@@ -97,7 +97,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,html,css,vscode&theme=dark" />
 </p>
-
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
