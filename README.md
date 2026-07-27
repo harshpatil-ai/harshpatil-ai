@@ -92,3 +92,17 @@
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,html,css,linux&theme=dark" />
+</p>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Software Engineering
+- 📚 Currently learning Data Structures & Algorithms
+- 🌱 Open Source Learner
+- ⚡ Building real-world projects with Python & C++
