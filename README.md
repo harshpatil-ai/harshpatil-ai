@@ -95,9 +95,8 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,html,css,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,html,css,vscode&theme=dark" />
 </p>
----
 
 ## 🚀 About Me
 
