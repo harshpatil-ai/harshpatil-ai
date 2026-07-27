@@ -49,3 +49,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatil-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshpatil-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshpatil-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
