@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Patil
 
-<!--
-**harshpatil-ai/harshpatil-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Machine Learning, Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 🐍 Python
+- 💻 C++
+- 🤖 AI & Machine Learning
+- 🌐 HTML, CSS
+- 🔧 Git & GitHub
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Web Development
+
+### 🚀 Projects
+- Smart Dustbin Monitoring System
+- Inventory Management System
+- Python Projects
+
+### 📫 Connect With Me
+- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/harsh-patil-55a610383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: harshpatil5887@gmail.com
+
+⭐ Thanks for visiting my profile!
