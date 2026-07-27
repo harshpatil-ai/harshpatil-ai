@@ -14,12 +14,12 @@
 ### 🌱 Currently Learning
 - Data Structures & Algorithms
 - Artificial Intelligence
-- Web Development
+
 
 ### 🚀 Projects
 - Smart Dustbin Monitoring System
 - Inventory Management System
-- Python Projects
+  
 
 ### 📫 Connect With Me
 - LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/harsh-patil-55a610383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
