@@ -78,3 +78,17 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpatil-ai&theme=tokyo-night&hide_border=true"/>
+</p>
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
