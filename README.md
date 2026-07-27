@@ -61,3 +61,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshpatil-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/harsh-patil-55a610383?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:harshpatil5887@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/harshpatil-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
