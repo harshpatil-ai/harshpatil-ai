@@ -91,11 +91,10 @@
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
-</p>
-## 💻 Tech Stack
+</p>## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,html,css,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark" />
 </p>
 ## 🚀 About Me
 
