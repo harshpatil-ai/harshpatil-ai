@@ -61,9 +61,7 @@ Python practice programs and mini projects.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=harshpatil-ai&theme=tokyonight&column=6"/>
-</p>
 
 ---
 
