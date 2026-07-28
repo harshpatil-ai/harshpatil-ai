@@ -93,7 +93,7 @@
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark" />
