@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patil</h1>
-<h3 align="center">Second Year Computer Science Engineering Student | Python | C++ | DSA | Open Source</h3>
+<h3 align="center">Second Year Computer Science Engineering Student | Python | C++ | DSA | Open Source learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;C%2B%2B+Programmer;DSA+Learner;Open+Source+Enthusiast" />
